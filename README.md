@@ -11,6 +11,12 @@ strengthening core programming skills.
 
 ------------------------------------------------------------------------
 
+## Preview
+
+https://i.imgur.com/yc2YWCD.png
+
+------------------------------------------------------------------------
+
 ## 📁 Project Structure
 
     .
