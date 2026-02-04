@@ -13,7 +13,7 @@ strengthening core programming skills.
 
 ## Preview
 
-https://i.imgur.com/yc2YWCD.png
+![preview](https://i.imgur.com/yc2YWCD.png)
 
 ------------------------------------------------------------------------
 
