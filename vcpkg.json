@@ -1,0 +1,26 @@
+{
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "docking-experimental"
+      ]
+    },
+    "imgui-sfml",
+    "sfml"
+  ],
+  "overrides": [
+    {
+      "name": "sfml",
+      "version": "2.6.2"
+    },
+    {
+      "name": "imgui-sfml",
+      "version": "2.6#1"
+    },
+    {
+      "name": "imgui",
+      "version": "1.90.6"
+    }
+  ]
+}
